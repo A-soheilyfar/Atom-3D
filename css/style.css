@@ -126,8 +126,9 @@
                 margin-top: 20px;
             }
             audio{
-                margin:10px auto 20px  auto;
+                margin:0 auto 20px  auto;
                 display: block; 
+                padding-top: 15px;
             }
             .atom{
             position: relative;
